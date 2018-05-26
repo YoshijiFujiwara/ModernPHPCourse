@@ -28,6 +28,10 @@
       <path value="$PROJECT_DIR$/vendor/duncan3dc/blade" />
       <path value="$PROJECT_DIR$/vendor/duncan3dc/serial" />
       <path value="$PROJECT_DIR$/vendor/duncan3dc/helpers" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/robmorgan/phinx" />
     </include_path>
   </component>
 </project>
