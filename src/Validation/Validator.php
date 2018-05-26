@@ -29,7 +29,7 @@ class Validator
                 switch ($exploded[0]) {
                     case 'min':
                         $min = $exploded[1];
-                        if (Respect::stringType()->length($min)->validate($_REQUEST[$name]) === false) {
+                        if (Respect::length($min)->validate($_REQUEST[$name]) === false) {
                             $errors[] = $name . " must be at least " . $min . " characters long";
                         }
                         break;
