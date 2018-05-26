@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e78deeb6-94da-401f-be62-f097192ab859" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Validation/Validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Validation/Validator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.envexample" beforeDir="false" afterPath="$PROJECT_DIR$/.envexample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Validator.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Validator.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+            <state relative-caret-position="253">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="e#119#159#0#PHP" expanded="true" />
               </folding>
@@ -76,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".envexample" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".envexample" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.envexample">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="232">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -176,8 +177,8 @@
         <option value="$PROJECT_DIR$/views/register.blade.php" />
         <option value="$PROJECT_DIR$/public/assets/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/.envexample" />
         <option value="$PROJECT_DIR$/src/Validation/Validator.php" />
+        <option value="$PROJECT_DIR$/.envexample" />
       </list>
     </option>
   </component>
@@ -337,12 +338,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526862876728</updated>
       <workItem from="1526862877911" duration="38343000" />
-      <workItem from="1527047268558" duration="23400000" />
+      <workItem from="1527047268558" duration="23826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61743000" />
+    <option name="totallyTimeSpent" value="62169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="675" y="0" width="858" height="831" extended-state="0" />
@@ -672,20 +673,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.envexample">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        <state relative-caret-position="253">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="e#119#159#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.envexample">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
