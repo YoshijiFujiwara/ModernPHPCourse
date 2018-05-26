@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e78deeb6-94da-401f-be62-f097192ab859" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.envexample" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Validation/Validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Validation/Validator.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,6 +21,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Validator.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+              <folding>
+                <element signature="e#119#159#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".envexample" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".envexample" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.envexample">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
@@ -97,18 +108,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
               <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegisterController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controllers/RegisterController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
-              <folding>
-                <element signature="e#121#142#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -151,7 +150,6 @@
         <option value="$PROJECT_DIR$/controllers/PageController.php" />
         <option value="$PROJECT_DIR$/src/models/User.php" />
         <option value="$PROJECT_DIR$/src/acme/Validator.php" />
-        <option value="$PROJECT_DIR$/src/Validation/Validator.php" />
         <option value="$PROJECT_DIR$/views/login.php" />
         <option value="$PROJECT_DIR$/views/register.php" />
         <option value="$PROJECT_DIR$/views/home.php" />
@@ -179,6 +177,7 @@
         <option value="$PROJECT_DIR$/public/assets/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.envexample" />
+        <option value="$PROJECT_DIR$/src/Validation/Validator.php" />
       </list>
     </option>
   </component>
@@ -286,11 +285,6 @@
             <path>
               <item name="test3" type="b2602c69:ProjectViewProjectNode" />
               <item name="test3" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="twig-templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="test3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test3" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -343,12 +337,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526862876728</updated>
       <workItem from="1526862877911" duration="38343000" />
-      <workItem from="1527047268558" duration="22599000" />
+      <workItem from="1527047268558" duration="23400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60942000" />
+    <option name="totallyTimeSpent" value="61743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="675" y="0" width="858" height="831" extended-state="0" />
@@ -362,7 +356,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32938388" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32938388" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -525,16 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="e#119#159#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/controllers/BaseController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -692,6 +676,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+          <folding>
+            <element signature="e#119#159#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

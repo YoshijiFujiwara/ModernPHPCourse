@@ -44,7 +44,7 @@ class Validator
                         }
                         break;
                     default:
-                        // 何もしない
+                        $errors[] = "No value found";
                 }
             }
         }
